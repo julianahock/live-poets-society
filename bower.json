@@ -3,7 +3,10 @@
   "description": "mouse is in the house",
   "main": "server.js",
   "authors": [
-    "Juliana Hock <jhock@mills.edu>"
+    "Juliana Hock <jhock@mills.edu>",
+    "Hannah Musson <hmusson@mills.edu>",
+    "Eve Gottwald <egottwald@mills.edu>",
+    "Benji Friedman <bfriedman@mills.edu>"
   ],
   "license": "ISC",
   "homepage": "",
